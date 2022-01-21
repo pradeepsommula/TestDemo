@@ -1,3 +1,4 @@
 rebase example
 
 testing rebase command
+Added another line
